@@ -67,13 +67,7 @@ Aprendo construyendo: exploro ideas y las convierto en proyectos.
 - 🏟️ [Sistema de gestión de tutorías](https://github.com/soykelian/sistema-gestion-tutorias-fet) — proyecto en TypeScript.
 - 🛍️ [Interfaz de sistema de inventario](https://github.com/soykelian/proyecto-aula-Front-sistema-inventario) — propuesta para una marca deportiva.
 
-## 💬 Random Dev Quote
-
-<div align="center">
-
-![Cita aleatoria de desarrollo](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
+<h2 align="center">trust the process</h2>
 
 <div align="center">
 
