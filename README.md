@@ -42,14 +42,7 @@ Aprendo construyendo: exploro ideas y las convierto en proyectos.
 
 </div>
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=soykelian&show_icons=true&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9&icon_color=79c0ff" alt="Estadísticas de GitHub" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=soykelian&theme=github-dark-blue&hide_border=true&background=0d1117&ring=79c0ff&fire=39d353&currStreakLabel=79c0ff" alt="Racha de contribuciones" />
-
-</div>
 
 ## 📈 Contribution Graph
 
